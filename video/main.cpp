@@ -25,6 +25,6 @@ int main()
 		{
 			cv::imshow("frame", frame);
 		}
-		waitKey(0);
+		waitKey(30);
 	}
 }
